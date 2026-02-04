@@ -39,7 +39,7 @@ Hello World. Welcome to my GitHub profile. I am a backend-focused full-stack dev
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="./assets/aabb.png" alt="Top Contributed Repo" width="600"/>
+  <img src="./aabb.png" alt="Top Contributed Repo" width="600"/>
 </p>
 
 ---
